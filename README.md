@@ -1,8 +1,7 @@
 # Fetch Rewards Web Service
----
 
 ## How to run this web service
-***
+
 1. Download the zip file and open in any code editor.
 2. From terminal go to the same folder and run below commands.
     * npm i
